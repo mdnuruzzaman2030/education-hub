@@ -20,11 +20,7 @@
     opacity: 0.5;
 }
 
-.container-slider {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
+.container-slider { 
     padding-bottom: 205px;
 }
 
